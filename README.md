@@ -21,7 +21,7 @@ This repository contains an AutoCAD drawing containing a Section and Plan view.
    If using the educational version, verify your student credentials to unlock full access.
 
 4. **Open .dwg Files**  
-   Launch AutoCAD and open any `.dwg` files from this repository to view and edit section and plan views.
+   Launch AutoCAD and open the `.dwg` file found in this repository to view and edit section and plan views.
 
 ## Copyright & Licensing
 
