@@ -1,6 +1,4 @@
-## Living room layout drafted in AutoCAD
-
-##
+## Living Room Layout Drafted in AutoCAD
 
 ### Section view
 Cross-section through the living room showing the vertical layout and major elements.
