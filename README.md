@@ -27,7 +27,9 @@ This repository contains an AutoCAD drawing containing a Section and Plan view.
 
 ## Copyright & Licensing
 
-Copyright (C) 2025 Talha Akhlaq <talhaakhlaq1@gmail.com>
+Copyright © Talha Akhlaq
 
 Distributed under the MIT License. See LICENSE for details.
 ##
+
+For more information on my projects and coursework, please see my [repositories](https://github.com/TalhaAkhlaq?tab=repositories).
