@@ -1,6 +1,4 @@
-### Description
-
-Living room layout drafted in AutoCAD
+## Living room layout drafted in AutoCAD
 
 ##
 
