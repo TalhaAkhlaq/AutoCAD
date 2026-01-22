@@ -1,13 +1,16 @@
 # AutoCAD
 
-## Description
-This repository contains an AutoCAD drawing containing a Section and Plan view.
+AutoCAD drawing of a living room layout, shown in both a plan view (top-down) and a section view (cut-through).
 
-### Contents
-- **Section View**: Detailed cross-sectional representations showing internal components and construction details.
-- ![image](https://github.com/user-attachments/assets/bb00dff9-2910-44dc-9c9d-83210d02e5d8)
-- **Plan View**: Top-down views clearly depicting layouts, arrangements, and spatial dimensions.
-- ![image](https://github.com/user-attachments/assets/9b1c4ed2-f912-43c4-b49a-a61965255ea8)
+## Contents
+
+### Section view
+Cross-section through the living room showing the vertical layout and major elements.
+![Section view](https://github.com/user-attachments/assets/bb00dff9-2910-44dc-9c9d-83210d02e5d8)
+
+### Plan view
+Top-down living room plan showing the furniture layout and overall dimensions.
+![Plan view](https://github.com/user-attachments/assets/9b1c4ed2-f912-43c4-b49a-a61965255ea8)
 
 ## Setting Up AutoCAD
 
