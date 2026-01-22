@@ -1,4 +1,6 @@
-### Description: AutoCAD drawing of a living room layout, shown in both a plan view (top-down) and a section view (cut-through).
+Description: AutoCAD drawing of a living room layout, shown in both a plan view (top-down) and a section view (cut-through).
+
+##
 
 ### Section view
 Cross-section through the living room showing the vertical layout and major elements.
