@@ -2,8 +2,6 @@
 
 AutoCAD drawing of a living room layout, shown in both a plan view (top-down) and a section view (cut-through).
 
-## Contents
-
 ### Section view
 Cross-section through the living room showing the vertical layout and major elements.
 ![Section view](https://github.com/user-attachments/assets/bb00dff9-2910-44dc-9c9d-83210d02e5d8)
