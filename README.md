@@ -1,6 +1,6 @@
 # AutoCAD Projects
 
-1. Living Room Layout: https://github.com/TalhaAkhlaq/AutoCAD/tree/main/Living%20Room%20Layout
+1. [Living Room Layout](https://github.com/TalhaAkhlaq/AutoCAD/tree/main/Living%20Room%20Layout)
 
 ## Setting Up AutoCAD
 
