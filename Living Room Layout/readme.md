@@ -1,6 +1,6 @@
 # Living Room Layout Drafted in AutoCAD
 
-- CADed span of 2 days (~40 hours spent)
+- Completed in 2 days (~40 hours total) across CAD iteration, revision passes, and dimensioning/annotation.
 
 ### Section View
 Cross-section through the living room showing the vertical layout and major elements.
